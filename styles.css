@@ -258,14 +258,14 @@ img{
 
 /* Butoane  */
 .butoane{
-  display:flex;
-  
+  display: flex;
+  justify-content: space-evenly;
 }
 .img-like{
   display:flex;
 }
 .like1{
-  margin-top:10px ;
+  margin-top: 10px;
   width: 30px;
   height: 30px;
   
@@ -276,7 +276,7 @@ img{
 }
 
 .com{
-  margin-top:10px ;
+  margin-top: 10px;
   width: 30px;
   height: 30px;
  
